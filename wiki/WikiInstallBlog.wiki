@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Support,Phase-Design,Phase-Requirements,Phase-Implementation,Phase-QA,Phase-Deploy,Deprecated
+
+= Introduction =
+
+Edit your 'ayarlar.php file'.
+
+
+= Details =
+
+DB PROPERTIES AND ADMIN PROPERTIES:
+  * Pleased view 'ayarlar.php' in to comment line
